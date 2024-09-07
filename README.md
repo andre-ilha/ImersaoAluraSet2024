@@ -49,14 +49,3 @@ Se você também é apaixonado por esportes e programação, fique à vontade pa
 **[Link para o seu perfil no GitHub]**
 
 **[Link para o repositório do projeto]**
-
-**Lembre-se de adaptar este README.md para o seu projeto específico, adicionando mais detalhes e informações relevantes.**
-
-**Outras ideias para o README.md:**
-
-* **Imagens:** Adicione imagens ou GIFs para deixar o README mais visualmente atraente.
-* **Demonstração:** Crie um vídeo curto demonstrando como a aplicação funciona.
-* **Contribuições:** Crie uma seção específica para explicar como os outros podem contribuir com o projeto.
-* **Licença:** Especifique a licença do projeto.
-
-Com um README.md bem feito, você atrairá mais pessoas para o seu projeto e facilitará a colaboração.
