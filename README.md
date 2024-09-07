@@ -44,8 +44,8 @@ Se você também é apaixonado por esportes e programação, fique à vontade pa
 
 **#Brasil #Atletas #Programação #JavaScript**
 
-**[Seu nome ou nome do projeto]**
+**Andre_ilha - Imersão Dev Alura com Google Gemini**
 
-**[Link para o seu perfil no GitHub]**
+**https://github.com/andre-ilha**
 
-**[Link para o repositório do projeto]**
+**https://github.com/andre-ilha/ImersaoAluraSet2024**
